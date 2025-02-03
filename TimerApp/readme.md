@@ -4,4 +4,4 @@
 pip install customtkinter
 ```
 
-![alt text](image.png)
+![ScreenShot](image.png)

@@ -4,4 +4,4 @@
 pip install tk pillow
 ```
 
-![alt text](image.png)
+![ScreenShot](image.png)
