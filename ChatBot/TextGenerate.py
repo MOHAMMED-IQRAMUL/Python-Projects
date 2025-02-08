@@ -3,7 +3,7 @@
 from google import genai
 
 
-client = genai.Client(api_key='Gemini_API_Key')
+client = genai.Client(api_key='AIzaSyBGtJjfNEMLvlg4F0QefINjaXjfhLbtubc')
 
 print()
 Query = input("Enter Your Query: ")
