@@ -2,7 +2,7 @@
 
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBGtJjfNEMLvlg4F0QefINjaXjfhLbtubc")
+genai.configure(api_key="GEMINI_API_KEY")
 
 model = genai.GenerativeModel("gemini-1.5-flash", system_instruction="You are a ChatBot. You can generate text based on the prompt you receive.")
 
