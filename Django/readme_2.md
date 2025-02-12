@@ -102,4 +102,3 @@ my_project/
 5. **Admin**: The `admin.py` file allows you to manage your models through the Django admin interface.
 6. **Static Files**: Static files in the `static/` directory are served to the client as needed.
 
-This structure helps keep your code organized and maintainable, making it easier to develop and scale your Django applications.
